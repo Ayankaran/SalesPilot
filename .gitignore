@@ -1,0 +1,21 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# API keys and secrets
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local temporary files
+.DS_Store
+.vscode/
+
+# Generated reports
+*.pdf
+*.xlsx
